@@ -1,2 +1,1 @@
 # hackfest
-yes
